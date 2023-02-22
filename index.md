@@ -6,21 +6,9 @@
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+[![View on GitHub](https://github.com/Hrp16/Fraud_detection)
 
-<center><img src="images/fraud_detection.jpg"/></center>
-
----
-### Financial-Models-Numerical-Methods
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
-
-This is just a collection of topics and algorithms that in my opinion are interesting.
-
-It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
-The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
-
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="assets/img/Fraud-Detection.png"/></center>
 
 ---
 ### LSTM Neural Network for Time Series Prediction
@@ -38,7 +26,7 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
-<center><img src="images/text_classification.png"/></center>
+<center><img src="assets/img/Text.png"/></center>
 
 ---
 ### Awesome Machine Learning
